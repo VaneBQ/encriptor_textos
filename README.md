@@ -22,3 +22,11 @@ Por ejemplo:
 inserción del texto que será encriptado o desencriptado, y el usuario debe poder escoger entre as dos opciones.
 - El resultado debe ser mostrado en la pantalla.
 
+**Inico **
+![inicio_01](https://user-images.githubusercontent.com/88424291/152719100-3d1ef017-a93b-4571-93e2-fdf2672d289b.png)
+
+**Encriptar **
+![image](https://user-images.githubusercontent.com/88424291/152719278-09abb9b7-49ba-44e4-8b62-1185dc8c684b.png)
+
+**Desencriptar **
+![image](https://user-images.githubusercontent.com/88424291/152719376-b4557a83-bf49-4be0-b690-ad294d0a2900.png)
