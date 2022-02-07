@@ -1,0 +1,15 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "pwa-chrome",
+            "request": "launch",
+            "name": "Launch Chrome against localhost",
+            "url": "file:///D:/EDUCACION/ORACLE-ONE/challenge-oracle/01%20Aplicaci%C3%B3n%20-%20Encriptar%20Textos/encriptor_textos/index.html",
+            "webRoot": "${workspaceFolder}"
+        }
+    ]
+}
